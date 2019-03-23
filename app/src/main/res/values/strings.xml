@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Formulario00060917</string>
+    <string name="text_form_tittle">Registration Form</string>
+    <string name="text_user">User:</string>
+    <string name="hint_user">User</string>
+    <string name="text_password">Password:</string>
+    <string name="hint_password">Password</string>
+    <string name="text_email">Email:</string>
+    <string name="hint_email">Email</string>
+    <string name="text_gender">Gender:</string>
+    <string name="hint_gender">Gender</string>
+    <string name="text_submit_btn">SUBMIT</string>
+    <string name="text_male">Male</string>
+    <string name="text_female">Female</string>
+    <string name="text_other">Other</string>
+    <string name="text_user_information">User information</string>
+    <string name="text_share_btn">SHARE</string>
+    <string name="text_shared_information">Shared information</string>
+</resources>
